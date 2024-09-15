@@ -22,10 +22,6 @@ Welcome to the **Dry Cleaning Management System**, a Java-based application desi
 
 ---
 
-## 📸 **Screenshots**
-
-Coming Soon! [Stay tuned for system screenshots!]()
-
 ---
 
 ## 🛠️ **Technologies Used**
