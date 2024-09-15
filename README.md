@@ -1,4 +1,3 @@
-Here's an interactive README.md format that encourages engagement and provides easy navigation:
 
 ---
 
